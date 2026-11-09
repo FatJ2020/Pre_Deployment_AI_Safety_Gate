@@ -1,0 +1,2 @@
+# Core gate uses Python standard library only.
+pytest>=8.0
