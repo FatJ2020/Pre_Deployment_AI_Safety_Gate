@@ -107,12 +107,6 @@ Together: **evaluate → govern → lifecycle → process assurance → pre-depl
 
 ---
 
-## Interview one-liner
-
-> “This gate applies automotive-style release discipline to AI systems: critical failures block, evidence and human approval are mandatory for high-impact paths, and a named human still owns limited-use authorisation.”
-
----
-
 ## Limitations (stated on purpose)
 
 - Synthetic data only
